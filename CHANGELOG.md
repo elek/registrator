@@ -15,7 +15,7 @@ All notable changes to this project will be documented in this file.
 ### Added 
 
 - Add container hostname to tags. #396 
-
+- Add '-deregister-on-stop' option #431 
 
 ## [v7] - 2016-03-05
 ### Fixed
