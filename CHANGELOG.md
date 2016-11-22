@@ -10,6 +10,13 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
+## Forked version
+
+### Added 
+
+- Add container hostname to tags. #396 
+
+
 ## [v7] - 2016-03-05
 ### Fixed
 - Providing a SERVICE_NAME for a container with multiple ports exposed would cause services to overwrite each other
