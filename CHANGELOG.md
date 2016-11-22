@@ -12,12 +12,13 @@ All notable changes to this project will be documented in this file.
 ### Changed
 - Updated the alpine linux verion to `3.4`
 
-## Forked version
+## Forked version (elek/registrator)
 
 ### Added 
 
 - Add container hostname to tags. #396 
 - Add '-deregister-on-stop' option #431 
+- Ability to use REGISTRATOR_BIND_ADDRESS #484 
 
 ## [v7] - 2016-03-05
 ### Fixed
