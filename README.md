@@ -1,3 +1,5 @@
+Consul registrator with incorporated pull requests. See: [CHANGELOG.md] for more details
+
 # Registrator
 
 Service registry bridge for Docker, sponsored by [Weave](http://weave.works).
